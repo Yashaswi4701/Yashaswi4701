@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashaswi</h1>
-<h3 align="center">A passionate OpenCV developer</h3>
+<h3 align="center">A Python developer</h3>
 
 - 📫 How to reach me **yashaswisingh47@gmail.com**
 
